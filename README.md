@@ -333,6 +333,7 @@ function contact() {
 // تشغيل العرض الأولي
 afficherProduits();
 </script>
-
+</body>
+</html>
 </body>
 </html>
